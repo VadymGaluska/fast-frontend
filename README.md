@@ -26,4 +26,4 @@ Startup command line or terminal and write next command: <br>
 
 ## License
 
-Apache License 2.0
+GNU General Public License v3.0
